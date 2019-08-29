@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "Hard drive failed in workstation 004",
-      "attention": true,
+      "id": 2,
+      "message": "Fixed hard drive in workstation 004",
+      "attention": false,
       "tech": "Sam Smith",
-      "date": "2019-08-28T19:39:29.397Z",
-      "id": 2
+      "date": "2019-08-29T18:43:50.058Z"
     },
     {
       "message": "Updated OS in workstation 321",
