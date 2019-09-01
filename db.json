@@ -18,8 +18,8 @@
       "id": 3,
       "message": "Updated OS in workstation 321",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2019-09-01T14:09:09.823Z"
+      "tech": "Sara Wilson",
+      "date": "2019-09-01T15:16:02.755Z"
     }
   ],
   "techs": [
@@ -37,21 +37,6 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
-    },
-    {
-      "firstName": "Greg",
-      "lastName": "Harris",
-      "id": 4
-    },
-    {
-      "firstName": "Bel",
-      "lastName": "Mondo",
-      "id": 5
-    },
-    {
-      "firstName": "Jill",
-      "lastName": "Smith",
-      "id": 6
     }
   ]
 }
