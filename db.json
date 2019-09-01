@@ -15,11 +15,11 @@
       "date": "2019-08-29T18:43:50.058Z"
     },
     {
+      "id": 3,
       "message": "Updated OS in workstation 321",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-08-28T19:39:59.687Z",
-      "id": 3
+      "date": "2019-09-01T14:09:09.823Z"
     }
   ],
   "techs": [
